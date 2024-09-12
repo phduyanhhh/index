@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+.content {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.main-content {
+    width: 50%;
+    background-color: white;
+    border-radius: 15px;
+}
+.item-content {
+    padding: 25px;
+}
+.image {
+    width: 100%;
+}
+.box-infomation {
+    background-color: rgb(245, 243, 240);
+}
+.item-box-infomation {
+    padding: 20px;
+}
+.item-ul {
+    padding: 7px;
+}
+.ingredients {
+    color: red;
+}
+.item-ol {
+    padding: 7px;
+}
+table {
+    width: 100%;
+}
+td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
